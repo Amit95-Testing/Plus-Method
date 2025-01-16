@@ -18,6 +18,10 @@ public class Jodna {
 		int f = d+e;
 		System.out.println(f);
 
+		int a = 333;
+		int b = 444;
+		int c = a+b;
+		System.out.println(c);
 	}
 
 }
