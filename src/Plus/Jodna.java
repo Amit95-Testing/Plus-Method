@@ -8,6 +8,10 @@ public class Jodna {
 		int z = i+j;
 		System.out.println(z);
 
+		int a = 333;
+		int b = 444;
+		int c = a+b;
+		System.out.println(c);
 	}
 
 }
